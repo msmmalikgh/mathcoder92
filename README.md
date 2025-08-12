@@ -39,4 +39,4 @@ I specialize in transforming data into actionable insights, building predictive 
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-saleem-98a267194/).
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://gist.github.com/YOURUSERNAME/YOURGISTID)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=muhammadsaleem02072002@gmail.com)
